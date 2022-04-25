@@ -1,0 +1,15 @@
+E:\работа с vcode\HomeWork25.04\Task25\bin\Debug\net6.0\Task25.exe
+E:\работа с vcode\HomeWork25.04\Task25\bin\Debug\net6.0\Task25.deps.json
+E:\работа с vcode\HomeWork25.04\Task25\bin\Debug\net6.0\Task25.runtimeconfig.json
+E:\работа с vcode\HomeWork25.04\Task25\bin\Debug\net6.0\Task25.dll
+E:\работа с vcode\HomeWork25.04\Task25\bin\Debug\net6.0\Task25.pdb
+E:\работа с vcode\HomeWork25.04\Task25\obj\Debug\net6.0\Task25.csproj.AssemblyReference.cache
+E:\работа с vcode\HomeWork25.04\Task25\obj\Debug\net6.0\Task25.GeneratedMSBuildEditorConfig.editorconfig
+E:\работа с vcode\HomeWork25.04\Task25\obj\Debug\net6.0\Task25.AssemblyInfoInputs.cache
+E:\работа с vcode\HomeWork25.04\Task25\obj\Debug\net6.0\Task25.AssemblyInfo.cs
+E:\работа с vcode\HomeWork25.04\Task25\obj\Debug\net6.0\Task25.csproj.CoreCompileInputs.cache
+E:\работа с vcode\HomeWork25.04\Task25\obj\Debug\net6.0\Task25.dll
+E:\работа с vcode\HomeWork25.04\Task25\obj\Debug\net6.0\refint\Task25.dll
+E:\работа с vcode\HomeWork25.04\Task25\obj\Debug\net6.0\Task25.pdb
+E:\работа с vcode\HomeWork25.04\Task25\obj\Debug\net6.0\Task25.genruntimeconfig.cache
+E:\работа с vcode\HomeWork25.04\Task25\obj\Debug\net6.0\ref\Task25.dll
