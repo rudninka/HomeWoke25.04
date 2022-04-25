@@ -1,0 +1,15 @@
+E:\работа с vcode\HomeWork25.04\Task29\bin\Debug\net6.0\Task29.exe
+E:\работа с vcode\HomeWork25.04\Task29\bin\Debug\net6.0\Task29.deps.json
+E:\работа с vcode\HomeWork25.04\Task29\bin\Debug\net6.0\Task29.runtimeconfig.json
+E:\работа с vcode\HomeWork25.04\Task29\bin\Debug\net6.0\Task29.dll
+E:\работа с vcode\HomeWork25.04\Task29\bin\Debug\net6.0\Task29.pdb
+E:\работа с vcode\HomeWork25.04\Task29\obj\Debug\net6.0\Task29.csproj.AssemblyReference.cache
+E:\работа с vcode\HomeWork25.04\Task29\obj\Debug\net6.0\Task29.GeneratedMSBuildEditorConfig.editorconfig
+E:\работа с vcode\HomeWork25.04\Task29\obj\Debug\net6.0\Task29.AssemblyInfoInputs.cache
+E:\работа с vcode\HomeWork25.04\Task29\obj\Debug\net6.0\Task29.AssemblyInfo.cs
+E:\работа с vcode\HomeWork25.04\Task29\obj\Debug\net6.0\Task29.csproj.CoreCompileInputs.cache
+E:\работа с vcode\HomeWork25.04\Task29\obj\Debug\net6.0\Task29.dll
+E:\работа с vcode\HomeWork25.04\Task29\obj\Debug\net6.0\refint\Task29.dll
+E:\работа с vcode\HomeWork25.04\Task29\obj\Debug\net6.0\Task29.pdb
+E:\работа с vcode\HomeWork25.04\Task29\obj\Debug\net6.0\Task29.genruntimeconfig.cache
+E:\работа с vcode\HomeWork25.04\Task29\obj\Debug\net6.0\ref\Task29.dll
